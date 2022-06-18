@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+}
+
+.top-nav {
+    height: 50px;
+    background-color: rgb(129, 188, 207);
+    color: #fff;
+    margin-bottom: 1%;
+}
+
+#blue {
+    color: rgb(76, 145, 243);
+
+}
+
+h6 span{
+    color:red;
+}
+
+
+.top-nav h3 {
+    margin-left: 2%;
+}
+
+
+.top-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.headline {
+    display: flex;
+}
+
+.headline img {
+    width: 10%;
+}
+
+.dns {
+    display: flex;
+    margin-top:-4em;
+}
+
+.dns p {
+    font-size: 18pt;
+    font-weight: 500;
+    color: rgb(46, 83, 138);
+}
+
+.dns img {
+    width: 2em;
+    height: 2em;
+    margin-top: 2%;
+
+}
+
+.address {
+    text-align: right;
+}
+
+.address h1 {
+    color: rgb(66, 167, 187);
+    text-align: right;
+    margin-right:0.01em;
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.phone img {
+    width: 3em;
+
+}
+
+
+.content {
+    border-top: rgb(118, 118, 118) solid 2px;
+}
+
+.client-server{
+justify-content: space-around;
+}
+
+.client-server img {
+    width: 30%;
+    margin-left: 30%;
+}
+
+.content p {
+    font-weight: 200;
+    font-size: 14pt;
+}
+
+.content h3 {
+    color: rgb(129, 188, 207);
+}
+
+.content span {
+    color: rgb(76, 145, 243);
+
+}
+
+.col-2 {
+    color: rgb(54, 54, 54);
+}
+
+.col-10 {
+    color: rgb(54, 54, 54);
+}
+
+.col-2 button {
+    margin: 2%;
+}
+
+.add {
+    margin-top: 7%;
+    margin-bottom: 7%;
+    padding: 3%;
+    background-image: url(ad_background.png);
+    color: #fff;
+    text-align: center;
+    font-size: 15pt;
+}
+
+.add img {
+    width: 50%;
+    margin-left: 0%;
+}
+
+
+/* .left-side {
+    border-bottom: rgb(122, 122, 122) solid 2px;
+} */
+
+.headline h1 {
+    margin-top: 3%;
+}
+
+.headline span {
+    color: rgb(46, 83, 138);
+}
+
+.btns {
+    margin-bottom: 10%;
+    padding: 2%;
+}
+
+.btn-1 {
+    background-color:  rgb(129, 188, 207);
+    width: 160px;
+    padding: 2%;
+    color: #fff;
+    border-style: none;
+
+}
+
+.btn-2 {
+    background-color: rgb(245, 151, 74);
+    width: 160px;
+    padding: 2%;
+    color: #fff;
+    border-style: none;
+}
+
+.btn-3 {
+    background-color:  rgb(129, 188, 207);
+    width: 6em;
+    color: white;
+    border-style: none;
+    margin-left:-1em;
+}
+
+.bottom-box {
+    display: flex;
+    height: 120px;
+    border: rgb(46, 83, 138) solid 2px;
+    margin: 2%;
+}
+
+.bottom-box img {
+    width: 10%;
+    margin: 2%;
+}
+
+.big3 h4 {
+    color: rgb(46, 83, 138);
+}
